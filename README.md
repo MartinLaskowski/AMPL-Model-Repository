@@ -1,2 +1,8 @@
 # AMPL-Model-Repository
-(Alpha) AMPL Model Repository 
+
+AMPL Model Repository version 0.1
+
+
+
+
+
